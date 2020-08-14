@@ -20,7 +20,9 @@ Enjoy
 - Requirements
 
 mythic_notify
+
 mythic_progbar
+
 Esx
 
 - Join the discord for support
